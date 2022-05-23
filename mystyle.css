@@ -1,0 +1,50 @@
+@charset "UTF-8";
+.p1 {
+	height: 300px;
+	background-image: url(https://images.unsplash.com/photo-1652859921973-030c87aade38?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1756);
+	background-position: center center;
+	margin: 5px;
+	background-size: cover;
+}
+.p2 {
+	height: 300px;
+	background-image: url(https://images.unsplash.com/photo-1653234254755-84bf949832da?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyOHx8fGVufDB8fHx8&auto=format&fit=crop&w=800);
+	background-position: center center;
+	margin: 5px;
+	background-size: cover;
+}
+.p3 {
+	height: 300px;
+	background-image: url(https://images.unsplash.com/photo-1653167811425-b53762f9fec4?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxMTJ8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=800);
+	background-position: center center;
+	margin: 5px;
+	background-size: cover;
+}
+.p4 {
+	height: 300px;
+	background-image: url(https://images.unsplash.com/photo-1653176070953-2b9cb5c7df9b?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxMjN8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=800);
+	background-position: center center;
+	margin: 5px;
+	background-size: cover;
+}
+.p5 {
+	height: 300px;
+	background-image: url(https://images.unsplash.com/photo-1653171158397-862159ba4239?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxNTZ8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=800);
+	background-position: center center;
+	margin: 5px;
+	background-size: cover;
+}
+.p6 {
+	height: 600px;
+	background-image: url(https://images.unsplash.com/photo-1653012321048-ab9d3815f4bc?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyMDR8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=800);
+	background-position: center center;
+	margin: 5px;
+	background-size: cover;
+}
+.title {
+	height: 100px;
+	background-color: #C3C3C3;
+	font-size: xx-large;
+	text-align: center;
+	color: #FFFFFF;
+}
